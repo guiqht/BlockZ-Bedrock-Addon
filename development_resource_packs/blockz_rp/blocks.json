@@ -1,0 +1,7 @@
+{
+  "format_version": "1.20.40",
+  "blockz:xtone_tile": {
+    "textures": "xtone_tile",
+    "sound": "stone"
+  }
+}

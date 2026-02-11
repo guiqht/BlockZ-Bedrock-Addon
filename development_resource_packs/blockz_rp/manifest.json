@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "building blocks bla bla bla",
+    "name": "BlockZ Resource Pack",
+    "uuid": "5c3cd86c-c312-4f78-afc4-9a7914694a85",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 40]
+  },
+  "modules": [
+    {
+      "description": "BlockZ's Resource Module",
+      "type": "resources",
+      "uuid": "94766bb6-69ea-4510-97bb-83882d2a3cfd",
+      "version": [1, 0, 0]
+    }
+  ]
+}
