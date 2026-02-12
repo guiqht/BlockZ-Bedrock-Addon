@@ -1,0 +1,33 @@
+{
+    "format_version": "1.20.40",
+    "minecraft:block": {
+        "description": {
+            "identifier": "blockz:xtone_tile",
+            "menu_category": {
+                "category": "construction"
+            }
+        },
+        "components": {
+            "minecraft:display_name": "tile.blockz.xtone_tile.name",
+            "minecraft:geometry": "minecraft:geometry.full_block",
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "blockz:xtone_tile",
+                    "render_method": "opaque"
+                }
+            },
+            "minecraft:destructible_by_mining": {
+                "seconds_to_destroy": 3,
+                "item_specific_speeds": [
+                    {
+                        "item": {
+                            "tags": "q.any_tag('minecraft:is_pickaxe')"
+                        },
+                        "destroy_speed": 8
+                    }
+                ]
+            },
+            "minecraft:loot": "loot_tables/blocks/xtone_tile.json"
+        }
+    }
+}

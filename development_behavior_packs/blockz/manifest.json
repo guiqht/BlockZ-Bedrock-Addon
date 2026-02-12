@@ -1,0 +1,32 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "building blocks bla bla bla",
+        "name": "BlockZ",
+        "uuid": "55da8df0-2723-4b7b-8b9c-9479dd10920a",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            26,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Script resources",
+            "language": "javascript",
+            "type": "script",
+            "uuid": "a4ff6df6-3c5c-432c-8dba-d0c5570f0bca",
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "entry": "scripts/main.js"
+        }
+    ]
+}
