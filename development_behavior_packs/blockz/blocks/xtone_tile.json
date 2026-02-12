@@ -17,16 +17,9 @@
                 }
             },
             "minecraft:destructible_by_mining": {
-                "seconds_to_destroy": 3,
-                "item_specific_speeds": [
-                    {
-                        "item": {
-                            "tags": "q.any_tag('minecraft:is_pickaxe')"
-                        },
-                        "destroy_speed": 8
-                    }
-                ]
+                "seconds_to_destroy": 3.5
             },
+            "tag:minecraft:is_pickaxe_item_destructible": {},
             "minecraft:loot": "loot_tables/blocks/xtone_tile.json"
         }
     }

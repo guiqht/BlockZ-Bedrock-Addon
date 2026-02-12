@@ -1,0 +1,13 @@
+{
+    "format_version": "1.17",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "blockz:xtone_tile_recipe"
+        },
+        "tags": [
+            "blast_furnace"
+        ],
+        "input": "minecraft:smooth_stone",
+        "output": "blockz:xtone_tile"
+    }
+}
