@@ -27,6 +27,25 @@
                 0
             ],
             "entry": "scripts/main.js"
+        },
+        {
+            "type": "data",
+            "uuid": "ec242a98-03ce-48c7-8fc2-e6033cca7e4f",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "2.0.0"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "2.0.0"
         }
     ]
 }

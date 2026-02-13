@@ -1,0 +1,26 @@
+{
+    "format_version": "1.20.40",
+    "minecraft:block": {
+        "description": {
+            "identifier": "blockz:velar_05",
+            "menu_category": {
+                "category": "construction"
+            }
+        },
+        "components": {
+            "minecraft:display_name": "tile.blockz.velar_05.name",
+            "minecraft:geometry": "minecraft:geometry.full_block",
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "blockz:velar_05",
+                    "render_method": "blend"
+                }
+            },
+            "minecraft:destructible_by_mining": {
+                "seconds_to_destroy": 3.5
+            },
+            "tag:minecraft:is_pickaxe_item_destructible": {},
+            "minecraft:loot": "loot_tables/blocks/velar/velar_05.json"
+        }
+    }
+}

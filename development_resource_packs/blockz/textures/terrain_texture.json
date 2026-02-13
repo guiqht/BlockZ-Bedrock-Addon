@@ -1,7 +1,44 @@
 {
+    "resource_pack_name": "blockz_rp",
+    "texture_name": "atlas.terrain",
+    "padding": 8,
+    "num_mip_levels": 4,
     "texture_data": {
         "blockz:xtone_tile": {
             "textures": "textures/blocks/xtone_tile"
+        },
+        "blockz:velar_00": {
+            "textures": "textures/blocks/velar/velar_00"
+        },
+        "blockz:velar_01": {
+            "textures": "textures/blocks/velar/velar_01"
+        },
+        "blockz:velar_02": {
+            "textures": "textures/blocks/velar/velar_02"
+        },
+        "blockz:velar_03": {
+            "textures": "textures/blocks/velar/velar_03"
+        },
+        "blockz:velar_04": {
+            "textures": "textures/blocks/velar/velar_04"
+        },
+        "blockz:velar_05": {
+            "textures": "textures/blocks/velar/velar_05"
+        },
+        "blockz:velar_06": {
+            "textures": "textures/blocks/velar/velar_06"
+        },
+        "blockz:velar_07": {
+            "textures": "textures/blocks/velar/velar_07"
+        },
+        "blockz:velar_08": {
+            "textures": "textures/blocks/velar/velar_08"
+        },
+        "blockz:velar_09": {
+            "textures": "textures/blocks/velar/velar_09"
+        },
+        "blockz:velar_10": {
+            "textures": "textures/blocks/velar/velar_10"
         }
     }
 }

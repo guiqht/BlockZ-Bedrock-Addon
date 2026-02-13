@@ -1,1 +1,15 @@
 tile.blockz.xtone_tile.name=Ztone Tile
+
+tile.blockz.velar_00.name=Velar Variant 0
+tile.blockz.velar_01.name=Velar Variant 01
+tile.blockz.velar_02.name=Velar Variant 02
+tile.blockz.velar_03.name=Velar Variant 03
+tile.blockz.velar_04.name=Velar Variant 04
+tile.blockz.velar_05.name=Velar Variant 05
+tile.blockz.velar_06.name=Velar Variant 06
+tile.blockz.velar_07.name=Velar Variant 07
+tile.blockz.velar_08.name=Velar Variant 08
+tile.blockz.velar_09.name=Velar Variant 09
+tile.blockz.velar_10.name=Velar Variant 10
+
+item.blockz:chisel=Chisel
